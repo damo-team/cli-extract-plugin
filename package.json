@@ -1,15 +1,14 @@
 {
-    "name": "@damo/cli-extract-plugin",
+    "name": "damo-cli-extract-plugin",
     "version": "0.0.1",
     "main": "index.js",
     "author": "baqian <st403471258@gmail.com>",
-    "description": "webpack插件，提取文本转义成指定代码",
+    "description": "Webpack插件，提取文本转义成指定代码",
     "keywords": [
       "damo",
       "redux",
       "webpack",
-      "react",
-      "starter"
+      "extract"
     ],
     "homepage": "https://github.com/baqian/damo-team/cli-extract-plugin",
     "dependencies": {
