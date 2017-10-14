@@ -1,0 +1,35 @@
+{
+    "name": "@damo/cli-extract-plugin",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "baqian <st403471258@gmail.com>",
+    "description": "webpack插件，提取文本转义成指定代码",
+    "keywords": [
+      "damo",
+      "redux",
+      "webpack",
+      "react",
+      "starter"
+    ],
+    "homepage": "https://github.com/baqian/damo-team/cli-extract-plugin",
+    "dependencies": {
+        "async": "^1.2.1",
+        "extract-text-webpack-plugin": "0.8.2",
+        "loader-utils": "~0.2.3"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/baqian/damo-team/cli-extract-plugin.git"
+    },
+    "readmeFilename": "README.md",
+    "maintainers": [
+      {
+        "name": "baqian",
+        "email": "st403471258@gmail.com"
+      }
+    ],
+    "bugs": {
+      "url": "https://github.com/baqian/damo-team/cli-extract-plugin/issues"
+    },
+    "license": "MIT"
+  }
